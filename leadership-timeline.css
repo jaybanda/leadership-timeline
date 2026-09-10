@@ -1,0 +1,27 @@
+/* MY LEADERSHIP JOURNEY - TIMELINE STYLE */
+
+.tl-timegroup .tl-timegroup-message {
+  color: #222222 !important;
+  font-weight: 800 !important;
+  opacity: 1 !important;
+  text-shadow: none !important;
+}
+
+.tl-timeaxis-tick-text {
+  color: #333333 !important;
+  font-weight: 600 !important;
+}
+
+.tl-timeaxis-major .tl-timeaxis-tick-text {
+  color: #222222 !important;
+  font-weight: 700 !important;
+}
+
+.tl-timemarker h2.tl-headline {
+  color: #222222 !important;
+  font-weight: 700 !important;
+}
+
+.tl-text-content p {
+  color: #333333 !important;
+}
